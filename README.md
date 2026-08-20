@@ -36,7 +36,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="/Recursos/Imágenes/Integrante Daniela.jpeg" width="90"/> | **Daniela** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/integrante Eddy Retuerto.jpeg" width="90"/> | **Moises** | Encargado/a de fotografía | Comunicación, redacción técnica |
 | <img src="/Recursos/Imágenes/Integrante Gabriel.jpg.jpeg" width="90"/> | **Gabriel** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/Integrante Adrian.jpeg" width="90"/> | **Renzo** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/Integrante Adrian.jpeg" width="90"/> | **Adrian** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
