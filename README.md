@@ -2,7 +2,7 @@
 ### Carrera de Ingeniería Biomédica 
 **Universidad Peruana Cayetano Heredia**
 
----
+----
 
 
 ## 🌍 Descripción del Equipo 
@@ -16,7 +16,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 - ODS 11: Ciudades y Comunidades Sostenibles  
 - ODS 13: Acción por el Clima  
 
----
+----
 
 ## 📸 Fotografía del Equipo  
 <div align="center">
@@ -25,7 +25,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 <em>Figura 1. Fotografía del equipo 04</em>
 </div>
 
----
+----
 
 ## 👥 Integrantes del Equipo  
 
@@ -38,7 +38,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="/Recursos/Imágenes/Integrante Gabriel.jpg.jpeg" width="90"/> | **Gabriel** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 | <img src="/Recursos/Imágenes/Integrante Adrian.jpeg" width="90"/> | **Adrian** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
----
+----
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
