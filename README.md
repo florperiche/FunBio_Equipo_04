@@ -31,11 +31,11 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/Integrante Zahir.jpeg" width="90"/> | **Zahir** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/Integrante Asiry .jpg" width="90"/> | **Asiry** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/Integrante Daniela.jpeg" width="90"/> | **Daniela** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/Integrante Zahir.jpeg" width="90"/> | **Asiry** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/Integrante Asiry .jpg" width="90"/> | **Zahir** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/Integrante Daniela.jpeg" width="90"/> | **Gabriel** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/integrante Eddy Retuerto.jpeg" width="90"/> | **Moises** | Encargado/a de fotografía | Comunicación, redacción técnica |
-| <img src="/Recursos/Imágenes/Integrante Gabriel.jpg.jpeg" width="90"/> | **Gabriel** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/Integrante Gabriel.jpg.jpeg" width="90"/> | **Daniela** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 | <img src="/Recursos/Imágenes/Integrante Adrian.jpeg" width="90"/> | **Adrian** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ----
